@@ -16,7 +16,7 @@
 
 - **Maze Navigation** – Explore encrypted tunnels, subnet branches, and server nodes  
 - **Combat System** – Engage in real-time or semi-turn-based battles against malware and botnets  
-- **Hacking Minigames** – Solve puzzles involving XOR logic, binary decoding, brute force simulators, and classical ciphers  
+- **Hacking Minigames** – Solve puzzles including ciphers and ethical hacking 
 - **Gamified Ethical Hacking** – Mechanics inspired by real-world cybersecurity:
   - Reconnaissance (network scanning and path discovery)
   - Exploitation (script-based unlocks and access)
